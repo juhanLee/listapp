@@ -1,0 +1,24 @@
+{
+  "name": "listapp",
+  "version": "1.0.0",
+  "description": "this is listapp example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/juhanLee/listapp.git"
+  },
+  "author": "parsio@naver.com",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "moment": "^2.15.1",
+    "mongojs": "^2.4.0",
+    "mongoose": "^4.6.3",
+    "mongoose-auto-increment": "^5.0.1",
+    "mongoose-schema-formatdate": "^1.0.0"
+  }
+}
