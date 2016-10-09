@@ -5,22 +5,23 @@
 
 
 
-<string>현재 업데이트 된 기능</string>
-<ul>
-	<li>날짜 추가.</li>
-	<li>번호 추가.</li>
-</ul>
 
-<string>추가 할 기능 </string>
-<ul>
-	<li>검색 기능</li>
-	<li>ul 개선</li>
-</ul>
 
 
 <h2>프리뷰</h2>
 <img src="preview.JPG">
 
+<h4>현재 업데이트 된 기능</h4>
+<ul>
+	<li>날짜 추가.</li>
+	<li>번호 추가.</li>
+</ul>
+
+<h4>추가 할 기능</h4>
+<ul>
+	<li>검색 기능</li>
+	<li>ul 개선</li>
+</ul>
 
 <h4>개발환경</h4>
 <ul>
